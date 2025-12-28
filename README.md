@@ -11,7 +11,9 @@ The system does not generate legal opinions or new interpretations — its purpo
 ## Steps to make application work
 
 1. Install libraries with command: 
-   ``` pip install rank-bm25 openai python-dotenv
+   ```bash
+    pip install rank-bm25 openai python-dotenv
+   ```
 2. Replace HF_TOKEN in .env file with provided token from Mail
 3. Run app.py
 
