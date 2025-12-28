@@ -35,11 +35,11 @@ If the answer cannot be found in the document, the system states that explicitly
 
 ## Technologies used
 
-Python
-BM25-based retrieval (document search)
-Large Language Model via Hugging Face Router
-OpenAI-compatible client
-Structured chunking and metadata indexing
+Python,
+BM25-based retrieval (document search),
+Large Language Model via Hugging Face Router,
+OpenAI-compatible client,
+Structured chunking and metadata indexing.
 
 ---
 
