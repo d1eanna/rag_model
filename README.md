@@ -2,9 +2,10 @@
 
 This project is a **Retrieval-Augmented Generation (RAG)** system built on the **Georgian Civil Code**.
 
-It allows a user to ask legal questions and receive answers **strictly based on the text of the Civil Code**, along with **clear source references** (articles / sections used).
+It allows a user to ask legal questions and receive answers strictly based on the text of the Civil Code, along with clear source references (articles / sections used).
 
-The system **does not generate legal opinions** or new interpretations — its purpose is to **retrieve, analyze, and present relevant legal text** in a structured and understandable way.
+The system does not generate legal opinions or new interpretations — its purpose is to retrieve, analyze, and present relevant legal text in a structured and understandable way.
+
 
 ---
 
