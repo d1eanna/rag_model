@@ -6,8 +6,14 @@ It allows a user to ask legal questions and receive answers strictly based on th
 
 The system does not generate legal opinions or new interpretations — its purpose is to retrieve, analyze, and present relevant legal text in a structured and understandable way.
 
-
 ---
+
+## Steps to make application work
+
+1. Install libraries with command: 
+   ``` pip install rank-bm25 openai python-dotenv
+2. Replace HF_TOKEN in .env file with provided token from Mail
+3. Run app.py
 
 ## How the project works
 
