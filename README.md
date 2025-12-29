@@ -78,3 +78,6 @@ pip install rank-bm25 openai
 
 ---
 
+you can see the example of how the code works here : 
+![Capture](https://github.com/user-attachments/assets/ada2e956-ec1b-45f7-8d1b-932bf7724b1e)
+
